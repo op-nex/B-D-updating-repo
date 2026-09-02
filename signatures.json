@@ -99,7 +99,7 @@
   "3245f78b1d9237617b4c6c97a7a107873616a9a7a93542283e0e7a1e2f7386d1": "Spyware.AgentTesla.Stealer",
   "47a2569e2c696e95d10d65b7dd41e97dd8f5f00e9ef4e12e105e4fb90f33d763": "RAT.AsyncRAT.RemoteAccess",
   "a8e8336d8f58be7d76f82312bdfd04426466fbf42fa023e387f3b5550a480d52": "RAT.DarkComet.Trojan",
-  "1026021f1d1912a7a40b497e201b1cb6a0141a0e19488e0b6862590f6b5b5976": "Worm.Stuxnet.Infrastructure"
+  "1026021f1d1912a7a40b497e201b1cb6a0141a0e19488e0b6862590f6b5b5976": "Worm.Stuxnet.Infrastructure",
     "af43118256344a1ce971c6d1910722f5d9ead1dee0f9ce7aedd18a6e9e53146a": "MalwareBazaar.Unknown.Mersenary",
     "96812d2a00a6ced73e1eae84ed4791ec6b7b687e89fa097183b843042dd9d70b": "MalwareBazaar.Unknown.Mersenary",
     "1b723594e574c00aac2c946ff738a0454f7c24f6ebc84ae45a6af9628b08cb96": "MalwareBazaar.Unknown.Mersenary",
