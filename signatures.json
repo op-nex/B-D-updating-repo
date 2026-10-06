@@ -3589,5 +3589,8 @@
     "464483429e613252958f93855be074e53292966f8a2d7486f67ddc581cbcd485": "MalwareBazaar3.0.Unknown.Mersenary",
     "2bf6239f6ad06bb1f69764704ee53afedf3df49ad0252815bfe11339de7a3721": "MalwareBazaar3.0.Unknown.Mersenary",
     "5769a076554ef050b91b0cbddffc376d01fcc310605903d97cdb36f24a6cec5a": "Spyware.SalatStealer.TestPayload" ,
-    "8d5d913136a711beb8d1053c63615027925a7726dc030c16eff8e9056ca0f00f": "spyware.salatstealer.version10/3/2026"
+    "8d5d913136a711beb8d1053c63615027925a7726dc030c16eff8e9056ca0f00f": "spyware.salatstealer.version3/10/2026",
+    "374c1bcedd9eb8d9e537dd47759685e5d9db21c0aa9b943592cd95aadbd18248": "spyware.salatstealer.version6/10/2026",
+    "0b8e3baabf8c4d764431e3927e2cd549efcb5d2cd05ae7c62c145fb8fdfb144f": "spyware.salatstealer.version4/10/2026",
+    "46481545f1141b6fa5b5a52081e09c9c8307c7b44df8ce15dacbbda1d0ac623d": "spyware.salatstealer.version2/10/2026"
 }
